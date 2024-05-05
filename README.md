@@ -1,7 +1,9 @@
-# Fault Diagnosis of Wind Turbines using Machine Leearning
+# Fault Diagnosis of Wind Turbines using Machine Learning
 
 Wind energy is a prominent contributor to renewable energy, while wind turbines are the main components of wind energy systems. Nevertheless, wind turbines suffer from different faults, which include generator heating faults, mains failure faults, feeding faults, air cooling faults, and excitation faults. These faults can cause extended downtime and require significant expenditure to repair, reducing the overall efficiency and profit margin for wind farms.         
 
 Fault diagnosis and predictive maintenance of wind turbines are important topics that this paper presents its methodology. The approach employs a dataset with turbine parameters and fault types to be studied, which include generator heating faults, mains failure faults, feeding faults, air cooling faults, and excitation faults. The dataset contains diverse variables such as wind speed, rotation speed, power, temperature; inverter means, and variances as well.
 
 The methodology being considered in this proposal entails data preprocessing, where cleaning, normalization, and feature selection are used to ensure the suitability of the data for analysis. After this step, different techniques like statistical analysis and pattern recognition can be employed to diagnose faults and predict maintenance needs of wind turbines. The paper presents an overview of the methodology as well as techniques used for data preprocessing, feature selection, fault diagnosis, and predictive maintenance based on a case study with a single wind turbine. The results show that there is potential for using this methodology to improve wind farm efficiency and profitability.
+
+Keywords—Wind turbines, Fault diagnosis, Predictive maintenance, Machine learning, Data preprocessing, Feature selection, Renewable energy, Wind energy systems
